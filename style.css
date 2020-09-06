@@ -371,4 +371,7 @@ footer{
     .sendBtn{
     font-size: 1em;
 }
+.img1{
+    order:2;
+}
   }
